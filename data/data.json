@@ -1,0 +1,254 @@
+﻿{
+    "Student": [
+        {
+            "Id": "1",
+            "Name": "lGoLNi",
+            "Marks": "56"
+        },
+        {
+            "Id": "2",
+            "Name": "kmZcgN",
+            "Marks": "94"
+        },
+        {
+            "Id": "3",
+            "Name": "FLneom",
+            "Marks": "10"
+        },
+        {
+            "Id": "4",
+            "Name": "qgeBWU",
+            "Marks": "17"
+        },
+        {
+            "Id": "5",
+            "Name": "PPaKNs",
+            "Marks": "84"
+        },
+        {
+            "Id": "6",
+            "Name": "joPhuk",
+            "Marks": "53"
+        },
+        {
+            "Id": "7",
+            "Name": "MAEOml",
+            "Marks": "65"
+        },
+        {
+            "Id": "8",
+            "Name": "AOqpUb",
+            "Marks": "91"
+        },
+        {
+            "Id": "9",
+            "Name": "LyrLEQ",
+            "Marks": "41"
+        },
+        {
+            "Id": "10",
+            "Name": "lcggGs",
+            "Marks": "72"
+        },
+        {
+            "Id": "11",
+            "Name": "iYQpIz",
+            "Marks": "87"
+        },
+        {
+            "Id": "12",
+            "Name": "njcQIS",
+            "Marks": "78"
+        },
+        {
+            "Id": "13",
+            "Name": "DnFOBI",
+            "Marks": "66"
+        },
+        {
+            "Id": "14",
+            "Name": "COanyi",
+            "Marks": "9"
+        },
+        {
+            "Id": "15",
+            "Name": "tMgGjO",
+            "Marks": "90"
+        },
+        {
+            "Id": "16",
+            "Name": "MtjrJA",
+            "Marks": "73"
+        },
+        {
+            "Id": "17",
+            "Name": "bFovwF",
+            "Marks": "71"
+        },
+        {
+            "Id": "18",
+            "Name": "orqPUQ",
+            "Marks": "26"
+        },
+        {
+            "Id": "19",
+            "Name": "DfUyIH",
+            "Marks": "19"
+        },
+        {
+            "Id": "20",
+            "Name": "GgxPpQ",
+            "Marks": "65"
+        },
+        {
+            "Id": "21",
+            "Name": "Nqwwbm",
+            "Marks": "31"
+        },
+        {
+            "Id": "22",
+            "Name": "knhwGv",
+            "Marks": "55"
+        },
+        {
+            "Id": "23",
+            "Name": "uVVNJc",
+            "Marks": "42"
+        },
+        {
+            "Id": "24",
+            "Name": "fuipVR",
+            "Marks": "89"
+        },
+        {
+            "Id": "25",
+            "Name": "bxwUQg",
+            "Marks": "70"
+        },
+        {
+            "Id": "26",
+            "Name": "RbXqrt",
+            "Marks": "38"
+        },
+        {
+            "Id": "27",
+            "Name": "FMMWze",
+            "Marks": "9"
+        },
+        {
+            "Id": "28",
+            "Name": "uxaUUc",
+            "Marks": "2"
+        },
+        {
+            "Id": "29",
+            "Name": "NgBtUW",
+            "Marks": "69"
+        },
+        {
+            "Id": "30",
+            "Name": "WedSVr",
+            "Marks": "69"
+        },
+        {
+            "Id": "31",
+            "Name": "mNonSR",
+            "Marks": "37"
+        },
+        {
+            "Id": "32",
+            "Name": "aIikTb",
+            "Marks": "57"
+        },
+        {
+            "Id": "33",
+            "Name": "TzIatY",
+            "Marks": "17"
+        },
+        {
+            "Id": "34",
+            "Name": "YEEOXS",
+            "Marks": "17"
+        },
+        {
+            "Id": "35",
+            "Name": "oNxvOJ",
+            "Marks": "49"
+        },
+        {
+            "Id": "36",
+            "Name": "kqkULC",
+            "Marks": "98"
+        },
+        {
+            "Id": "37",
+            "Name": "eiiPEn",
+            "Marks": "95"
+        },
+        {
+            "Id": "38",
+            "Name": "vCcPUK",
+            "Marks": "87"
+        },
+        {
+            "Id": "39",
+            "Name": "rCCBuo",
+            "Marks": "56"
+        },
+        {
+            "Id": "40",
+            "Name": "FLztuU",
+            "Marks": "2"
+        },
+        {
+            "Id": "41",
+            "Name": "aZEMZv",
+            "Marks": "56"
+        },
+        {
+            "Id": "42",
+            "Name": "jBkAwk",
+            "Marks": "97"
+        },
+        {
+            "Id": "43",
+            "Name": "MPQHbg",
+            "Marks": "54"
+        },
+        {
+            "Id": "44",
+            "Name": "XSrAhU",
+            "Marks": "83"
+        },
+        {
+            "Id": "45",
+            "Name": "FzDAWH",
+            "Marks": "66"
+        },
+        {
+            "Id": "46",
+            "Name": "dwfDVt",
+            "Marks": "88"
+        },
+        {
+            "Id": "47",
+            "Name": "KPOAsi",
+            "Marks": "51"
+        },
+        {
+            "Id": "48",
+            "Name": "BLdZsq",
+            "Marks": "24"
+        },
+        {
+            "Id": "49",
+            "Name": "eSomXE",
+            "Marks": "37"
+        },
+        {
+            "Id": "50",
+            "Name": "RJBwGE",
+            "Marks": "14"
+        }
+    ]
+}

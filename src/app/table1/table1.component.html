@@ -1,0 +1,78 @@
+<h2> Marklist</h2>
+
+
+
+<table border="true" let i = index >
+  <thead>
+  <tr>
+    <th scope="col">Id</th>
+    <th scope="col">Name</th>
+    <th scope="col">Marks</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let student of marks1">
+    <td [ngStyle]="{'color':student.Marks <= 40 ? 'red': student.Marks > 40 && student.Marks<=70 ? 'yellow' : 'green', 'background-color': (student.Id%2)==0?'white':'lightgrey'}" >{{ student.Id }}</td>
+    <td [ngStyle]="{'color':student.Marks <= 40 ? 'red': student.Marks > 40 && student.Marks<=70 ? 'yellow' : 'green', 'background-color': (student.Id%2)==0?'white':'lightgrey'}">{{ student.Name }}</td>
+    <td [ngStyle]="{'color':student.Marks <= 40 ? 'red': student.Marks > 40 && student.Marks<=70 ? 'yellow' : 'green', 'background-color': (student.Id%2)==0?'white':'lightgrey'}">{{ student.Marks }}</td>
+  </tr>
+  </tbody>
+</table>
+
+
+
+
+
+<!-- <table mdbTable striped="true">
+  <thead>
+    <tr>
+      <th *ngFor="let head of headElements" scope="col">{{head}} </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr mdbTableCol *ngFor="let student of marks1">
+      <th scope="row">{{student.Id}}</th>
+      <td>{{el.Name}}</td>
+      <td>{{el.Marks}}</td>
+      
+    </tr>
+  </tbody>
+</table> -->
+
+
+
+
+<!-- <mat-form-field>
+  <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+</mat-form-field>
+ -->
+
+<!-- 
+<div class="mat-elevation-z8">
+  <mat-table #table [dataSource]="dataSource" matSort>
+
+    
+    <ng-container matColumnDef="id">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> ID </th>
+      <td mat-cell *matCellDef="let row"> {{row.id}} </td>
+    </ng-container>
+
+    
+    <ng-container matColumnDef="Name">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Name </th>
+      <td mat-cell *matCellDef="let row"> {{row.Name}} </td>
+    </ng-container>
+
+    
+    <ng-container matColumnDef="Marks">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Marks </th>
+      <td mat-cell *matCellDef="let row"> {{row.Marks}} </td>
+    </ng-container>
+
+    
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;">
+    </tr>
+  </mat-table>
+ -->
